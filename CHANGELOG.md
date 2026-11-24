@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/stella-mcgann/stac/compare/v0.1.1...v0.1.2) (2026-11-24)
+
+
+### Bug Fixes
+
+* keep stac.linz.govt.nz homepage in sync with releases TDE-2249 ([#1](https://github.com/stella-mcgann/stac/issues/1)) ([4b743b0](https://github.com/stella-mcgann/stac/commit/4b743b0747d68295b927501d32b4f05d61d45179))
+
 ## [0.1.1](https://github.com/linz/stac/compare/v0.1.0...v0.1.1) (2026-11-23)
 
 

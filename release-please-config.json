@@ -34,12 +34,5 @@
     "extensions/scanning": {
       "component": "scanning"
     }
-  },
-  "plugins": [
-    {
-      "type": "linked-versions",
-      "groupName": "stac-extensions",
-      "components": ["aerial-photo", "camera", "film", "historical-imagery", "linz", "quality", "scanning", "stac"]
-    }
-  ]
+  }
 }

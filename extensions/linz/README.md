@@ -10,7 +10,7 @@
   Proposal
 - **Owner**: @billgeo @imincik @l0b0 @MitchellPaff
 
-This is LINZ top level
+This is the LINZ top level
 [SpatioTemporal Asset Catalog](https://github.com/radiantearth/stac-spec) (STAC)
 extension which adds constraints to default STAC schema fields.
 

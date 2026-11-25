@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/stella-mcgann/stac/compare/v0.1.3...v0.1.4) (2026-11-25)
+
+
+### Bug Fixes
+
+* **linz:** tidy README wording ([#5](https://github.com/stella-mcgann/stac/issues/5)) ([6220c25](https://github.com/stella-mcgann/stac/commit/6220c255335fd02634728e2ff63d610fb5f9267d))
+
 ## [0.1.3](https://github.com/stella-mcgann/stac/compare/v0.1.2...v0.1.3) (2026-11-25)
 
 

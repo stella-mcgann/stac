@@ -15,7 +15,7 @@ if other data managers find them to be useful.
 - [Camera](/v0.1.3/camera/): Camera details for photos.
 - [Film](/v0.1.3/film/): Film details for photos.
 - [Historical Imagery](/v0.1.3/historical-imagery/): Aerial survey photos.
-- [LINZ](/v0.1.3/linz/): Toitū Te Whenua LINZ-specific settings.
+- [LINZ](/v0.1.4/linz/): Toitū Te Whenua LINZ-specific settings.
 - [Quality](/v0.1.3/quality/): Dataset accuracy.
 - [Scanning](/v0.1.3/scanning/): Scanning details for photos.
 

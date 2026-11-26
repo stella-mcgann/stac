@@ -66,7 +66,7 @@ These fields apply to assets within both items and collections.
 
 ## Extensions
 
-This extension includes these other extensions:
+This extension includes all of the other extensions:
 
 - [file](https://github.com/stac-extensions/file)
 
